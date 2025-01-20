@@ -1,4 +1,4 @@
-## About Me 👋
+# About Me 👋
 
 <!--
 **BrooksSierra/BrooksSierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 !-->
-😄 Pronouns: She/her
-🔭 I’m currently working on: B.S. Software Development
-🌱 I’m currently learning: C++, HTML/CSS, Python, Javascript 
-🤔 I’m looking for help with: Read APIs :'(
+- 😄 Pronouns: She/her
+- 🔭 I’m currently working on: B.S. Software Development
+- 🌱 I’m currently learning: C++, HTML/CSS, Python, Javascript 
+- 🤔 I’m looking for help with: Read APIs :'(
